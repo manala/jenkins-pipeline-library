@@ -1,0 +1,6 @@
+<p>Manala</p>
+<dl>
+  <dt>manala.logo()</dt>
+  <dd>
+    Print manala logo
+</dl>
