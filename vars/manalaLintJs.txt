@@ -1,0 +1,6 @@
+<p>Manala lint javascript.</p>
+<dl>
+  <dt>manalaLintJs()</dt>
+  <dd>
+    Lint javascript
+</dl>
