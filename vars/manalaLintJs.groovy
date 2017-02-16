@@ -1,7 +1,6 @@
-def call(String name = 'rien', Closure body) {
-  echo "Hellooooooooooooooooooooo, ${name}."
+def call(Integer version = 0, Closure body) {
   script {
-    docker.image('manala/lint-js:0').inside {
+    docker.image("manala/lint-js:${versiob}").inside {
       body()
     }
   }
