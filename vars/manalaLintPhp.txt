@@ -1,0 +1,6 @@
+<p>Manala lint php.</p>
+<dl>
+  <dt>manalaLintPhp()</dt>
+  <dd>
+    Lint php
+</dl>
