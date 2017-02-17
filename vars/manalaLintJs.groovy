@@ -1,4 +1,4 @@
-def call(Integer version = 0, Closure body) {
+def call(String version = 'latest', Closure body) {
   script {
     docker.image("manala/lint-js:${version}").inside {
       body()
