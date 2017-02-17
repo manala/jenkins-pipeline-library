@@ -1,0 +1,6 @@
+<p>Manala lint cascading style sheets.</p>
+<dl>
+  <dt>manalaLintCss()</dt>
+  <dd>
+    Lint cascading style sheets
+</dl>
