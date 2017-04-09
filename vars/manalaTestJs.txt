@@ -1,0 +1,6 @@
+<p>Manala test javascript.</p>
+<dl>
+  <dt>manalaTestJs()</dt>
+  <dd>
+    Test javascript
+</dl>
