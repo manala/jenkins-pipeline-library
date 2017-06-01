@@ -1,0 +1,6 @@
+<p>Manala domainize string.</p>
+<dl>
+  <dt>manalaDomainize()</dt>
+  <dd>
+    Domainize string
+</dl>
