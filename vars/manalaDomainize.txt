@@ -3,4 +3,5 @@
   <dt>manalaDomainize()</dt>
   <dd>
     Domainize string
+    " boubou/fOo Bar_baz" -> "foo-bar-baz.boubou"
 </dl>
