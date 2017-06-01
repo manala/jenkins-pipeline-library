@@ -1,3 +1,5 @@
 def call(String input) {
-  return input.trim().toLowerCase().replace(" ", "-")
+  input = input.trim().toLowerCase()
+  input = input.replace(" ", "-").replace("_", "-")
+  return input
 }
