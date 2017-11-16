@@ -1,0 +1,7 @@
+<p>Manala pathize string.</p>
+<dl>
+  <dt>manalaPathize()</dt>
+  <dd>
+    Pathize string
+    "https://github.com/Foo/bar.git" -> "github.com/foo/bar"
+</dl>
