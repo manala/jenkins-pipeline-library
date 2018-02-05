@@ -1,6 +1,6 @@
 def call(String version = 'latest', Closure body) {
   script {
-    docker.image("manala/lint-php:${version}").inside {
+    docker.image("manala/lint-php:${version}").inside('--entrypoint=') {
       body()
     }
   }
